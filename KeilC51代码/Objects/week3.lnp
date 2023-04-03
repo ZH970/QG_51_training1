@@ -1,0 +1,8 @@
+".\Objects\STARTUP.obj",
+".\Objects\Conf_tny.obj",
+".\Objects\Delay.obj",
+".\Objects\main.obj",
+".\Objects\Timer0.obj",
+".\Objects\Nixie.obj" 
+TO ".\Objects\week3" Rtx51Tiny 
+PRINT(".\Listings\week3.m51")
